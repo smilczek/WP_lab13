@@ -10,15 +10,15 @@ Trzeci paragraf, tutaj użyję wszystkiego na raz w kolejnej lini.
 
 Poniżej umieszczę cytat:
 
-> Potężna
+> Potężna  
 > Wichura
->> Łamiąc duże drzewa
+>> Łamiąc duże drzewa  
 >> Trzciną zaledwie tylko kołysze.
 
 1. Przyjmij liczbę n
 2. Wyświetl kwadran nxn
-  1. Wypisz '#' n razy
-  2. Wykonaj powyższą instrukcję n razy.
+    1. Wypisz '#' n razy
+    2. Wykonaj powyższą instrukcję n razy.
 3. Koniec
 
 - Patelnia
