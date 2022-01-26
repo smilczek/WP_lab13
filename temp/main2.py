@@ -4,5 +4,5 @@ def five_times(text):
     ret += text
   return ret
 
-def garbage(sth):
+def what_is(sth):
   return 'garbage'
