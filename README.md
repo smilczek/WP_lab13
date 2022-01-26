@@ -34,14 +34,16 @@ Poniżej umieszczę cytat:
 
 ```
     for i in range(5)
-        print('iteracja numer ', i + 1)
+      print('iteracja numer ', i + 1)
     print('Koniec programu')
 ```
 
 1. W tej liście umieszczę zagnieżdżony kod programu
 2. Oto kod:
+```
         n = input()
         while n > 0:
           print(n)
           n += -1
+```
 3. kod wypisuje wszystkie liczby od n do 1.
