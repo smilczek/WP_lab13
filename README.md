@@ -33,7 +33,7 @@ Poniżej umieszczę cytat:
 - Kuchenka
 
     for i in range(5)
-      print('iteracja numer ', i + 1)
+        print('iteracja numer ', i + 1)
     print('Koniec programu')
 
 1. W tej liście umieszczę zagnieżdżony kod programu
