@@ -49,3 +49,5 @@ Poniżej umieszczę cytat:
         print(ret)
 ```
 3. kod wypisuje silnię liczby n.
+
+![Fikołek](billy.gif)
