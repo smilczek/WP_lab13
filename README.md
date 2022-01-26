@@ -42,8 +42,10 @@ Poniżej umieszczę cytat:
 2. Oto kod:
 ```
         n = input()
-        while n > 0:
-          print(n)
+        ret = 1
+        while n > 1:
+          ret *= n
           n += -1
+        print(ret)
 ```
-3. kod wypisuje wszystkie liczby od n do 1.
+3. kod wypisuje silnię liczby n.
